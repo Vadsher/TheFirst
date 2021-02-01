@@ -1,0 +1,17 @@
+commit 76709fd12524ef80443f05d2fb4bb291f74264aa
+Author: Vadsher <reg4vad@gmail.com>
+Date:   Mon Feb 1 22:44:11 2021 +0200
+
+    add .gitignore again
+
+commit ef50ef2736370bee515b04c0393a70ead92368a7
+Author: Vadsher <reg4vad@gmail.com>
+Date:   Mon Feb 1 22:34:43 2021 +0200
+
+    add status.txt
+
+commit 850f8651468d97f5d2aab88c4ef76ad96b93ae0c
+Author: Vadsher <reg4vad@gmail.com>
+Date:   Mon Feb 1 22:15:14 2021 +0200
+
+    add
