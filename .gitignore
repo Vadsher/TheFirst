@@ -1,17 +1,6 @@
 #ignored IDEA files and folders 
 
-
-
 *.iml
-
-
-
 .DS_Store/
-
-
-
 .idea/
-
-
-
 out/
